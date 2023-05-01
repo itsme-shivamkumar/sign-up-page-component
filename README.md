@@ -23,9 +23,9 @@ Our sign up/sign in page is a visually appealing and interactive experience for 
 - Seamless sign up/sign in process
 
 ### Screenshot
-![](./design/desktop-design.jpg)
-![](./design/mobile-design.jpg)
-![](./design/active-states.jpg)
+![](./assets/img/preview-1.jpg)
+![](./assets/img/preview-2.jpg)
+![](./assets/img/preview-3.jpg)
 
 
 ### Links
