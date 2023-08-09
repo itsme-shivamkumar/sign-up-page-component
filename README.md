@@ -33,7 +33,7 @@ Our sign up/sign in page is a visually appealing and interactive experience for 
 - Live Site URL: [Click Here](https://itsme-shivamkumar.github.io/sign-up-page-component/)
 
 ## My process
-n creating our sign up/sign in page, we used a combination of HTML, CSS, and vanilla JavaScript. We started by creating the smiley face from scratch, including its eyebrows, eyelashes, cornea, eyeball, sunglass, and mouth. Then, we designed the page to be mobile-friendly and optimized for a seamless sign up/sign in process.
+In creating our sign up/sign in page, we used a combination of HTML, CSS, and vanilla JavaScript. We started by creating the smiley face from scratch, including its eyebrows, eyelashes, cornea, eyeball, sunglass, and mouth. Then, we designed the page to be mobile-friendly and optimized for a seamless sign up/sign in process.
 ### Built with
 - HTML
 - CSS
